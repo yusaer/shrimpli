@@ -39,7 +39,7 @@ A URL shortening service built with Rust.
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/shrimpli.git
+git clone https://github.com/yusaer/shrimpli.git
 cd shrimpli
 ```
 
